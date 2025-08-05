@@ -2,6 +2,7 @@
 This project analyzes and forecasts **core inflation** in India using historical macroeconomic data and linear regression techniques in Microsoft Excel. It explores the dynamics of headline vs. core inflation, underlying economic drivers, and policy responses, and provides a forecasted inflation value based on GDP growth estimates.
 
 🧩 **Key Components**
+
 📌 **Conceptual Coverage:**
 1. Headline vs. Core Inflation
 2. Demand-pull and Cost-push inflation
