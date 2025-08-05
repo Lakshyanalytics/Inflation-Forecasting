@@ -21,11 +21,4 @@ Core Inflation = 4.474 + 0.144 × GDP Growth
 For FY 2023-24 (GDP = 6.5%), **forecasted inflation = 5.41%**
 
 📚 **References**
-RBI Bulletin
-IMF Reports
-NCAER Studies
-Monetary Policy Statements
-Economic Survey of India
-European Central Bank Reports
-
-NBER & Goldman Sachs research
+RBI Bulletin, IMF Reports, NCAER Studies, Monetary Policy Statements, Economic Survey of India, European Central Bank Reports, NBER & Goldman Sachs research
