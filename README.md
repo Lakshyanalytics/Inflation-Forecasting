@@ -10,6 +10,7 @@ This project analyzes and forecasts **core inflation** in India using historical
 4. Impact of inflation on employment and economic stability
 
 📈 **Data Analysis:** 
+
 1. Historical data on CPI, WPI, GDP deflator, and PPI (2013–2023)
    
 2.State-wise inflation trends
