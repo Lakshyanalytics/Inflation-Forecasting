@@ -13,8 +13,8 @@ This project analyzes and forecasts **core inflation** in India using historical
 📈 **Data Analysis:** 
 
 1. Historical data on CPI, WPI, GDP deflator, and PPI (2013–2023)
-2.State-wise inflation trends
-3.Data sourced from RBI, IMF, NCAER, Monetary Policy Reports, etc.
+2. State-wise inflation trends
+3. Data sourced from RBI, IMF, NCAER, Monetary Policy Reports, etc.
 
 🧮 **Forecasting Model:**
 1. Linear regression analysis using Excel
